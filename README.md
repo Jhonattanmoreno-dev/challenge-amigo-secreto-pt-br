@@ -1,1 +1,1 @@
-. Um jogo de amigo secreto com interface simples, basta colocar um nome e clicar em adicionar para começar a fazer a lista, são necessários pelo menos dois nomes para fazer o sorteio.
+[Descrição.docx](https://github.com/user-attachments/files/22453742/Descricao.docx)
